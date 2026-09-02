@@ -1,4 +1,11 @@
 body {
+    margin: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    overflow: hidden;
+}
+/* body {
 .montserrat-<uniquifier> 
 {
   font-family: "Montserrat", sans-serif;
@@ -10,7 +17,7 @@ body {
   background-color: #000;
   color: #fff;
   overflow: hidden;
-}
+} */
 .main {
     display: flex;
     height: 100vh;
