@@ -1,5 +1,4 @@
 # Spotify Clone
----
 The Spotify Clone is a static music streaming website inspired by Spotify. It is created using HTML and CSS with images to design a Spotify-like interface.
 
 ## Features
